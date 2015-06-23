@@ -1,2 +1,3 @@
 # gpgpu-sim-bk
-# ARCS
+# 
+# ARCS Lab at SKKU
